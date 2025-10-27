@@ -4,8 +4,6 @@ description: Stata? Supporting File.
 file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/7aee67fc6da7c1b2b443615fd6e5f688_betting_line.dta
 file_size: 3062
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

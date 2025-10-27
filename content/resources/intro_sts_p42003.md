@@ -4,8 +4,6 @@ description: Notes
 file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/8edfa53c59eec63f8483ea92fee597c6_intro_sts_p42003.pdf
 file_size: 466147
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

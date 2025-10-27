@@ -4,8 +4,6 @@ description: ''
 file: /courses/17-872-quantitative-research-in-political-science-and-public-policy-spring-2004/3c64e5945552ff3c93a179f861e2524a_stata_tutorial.pdf
 file_size: 115571
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
